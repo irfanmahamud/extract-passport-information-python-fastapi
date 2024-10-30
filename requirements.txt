@@ -1,0 +1,1 @@
+fastapi uvicorn python-multipart easyocr passporteye opencv-python-headless matplotlib
