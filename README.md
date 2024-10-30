@@ -55,6 +55,7 @@ pip install -r requirements.txt
 ```
 If you don’t have a requirements.txt file, create one with the following contents:
 
+```bash
 fastapi
 uvicorn
 python-multipart
@@ -62,6 +63,7 @@ easyocr
 passporteye
 opencv-python-headless
 matplotlib
+```
 
 Then, install the dependencies:
 
@@ -104,9 +106,10 @@ Example JSON Response
 
 ## Error Handling
 
-400 Bad Request: If the MRZ section cannot be read from the image.
-500 Internal Server Error: If there is an issue during OCR or image processing.
-Development and Contribution
+**400 Bad Request:** If the MRZ section cannot be read from the image.
+**500 Internal Server Error:** If there is an issue during OCR or image processing.
+
+## Development and Contribution
 Feel free to contribute to this project by following these steps:
 
 ## Fork the repository.
