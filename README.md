@@ -36,8 +36,8 @@ This project is a **FastAPI-based web service** that extracts **passport informa
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/irfanmahamud/extract-passport-information-python-fastapi.git
+cd extract-passport-information-python-fastapi
 ```
 
 ### Install Dependencies
